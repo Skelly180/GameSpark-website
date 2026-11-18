@@ -8,21 +8,29 @@
     font-size: 40px;
 }
 
-.headerMain{
+.headerLogo{
     display: flex;
 }
 
 header{
-    padding: 20px;
     margin: 20px;
     display: flex;
     justify-content: space-around;
 }
 
+
 header a{
+    padding-top: 10px;
     margin-top: 23px;
+    border-radius: 20px;
+    border-color: grey;
+    justify-content: space-between;
     display: flex;
-    justify-content: space-around;
+}
+
+a:hover{
+    color: pink;
+    background-color: blue;
 }
 
 h1{

@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <div class="headerMain">
+        <div class="headerLogo">
             <img class="logo" src="https://picsum.photos/100/100" alt="Logo">
             <h1>
                 GameSpark

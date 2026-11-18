@@ -8,22 +8,18 @@
 </head>
 <body>
     <header>
-        <div class="headerLogo">
-            <img class="logo" src="https://picsum.photos/100/100" alt="Logo">
-            <h1>
-                GameSpark
-            </h1>
-            <a href="google.com">Games</a>
-            <a href="google.com">Over ons</a>
-        </div>
+        <?php
+        include_once 'header.php';
+        ?>
     </header>
-
     <main>
 
     </main>
 
     <footer>
-
+        <?php
+        include_once 'footer.php';
+        ?>
     </footer>
 </body>
 </html>
